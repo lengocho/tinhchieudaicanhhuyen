@@ -1,0 +1,3 @@
+C:/Users/holn1/CLionProjects/bai_tap_04/cmake-build-debug/CMakeFiles/bai_tap_04.dir
+C:/Users/holn1/CLionProjects/bai_tap_04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/holn1/CLionProjects/bai_tap_04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
